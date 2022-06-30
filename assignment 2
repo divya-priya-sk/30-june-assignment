@@ -1,0 +1,4 @@
+result={1:["ramesh","fail","yes"],2:["rajesh","pass","no"],3:["dinesh","pass","no"]}
+print(result)
+print(result[2][1])
+print(result[2][2])
