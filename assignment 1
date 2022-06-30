@@ -1,0 +1,2 @@
+employee={"empname":"divya","empdesig":"Prof.","empsal":25000,"phno":945675761}
+print(employee)
